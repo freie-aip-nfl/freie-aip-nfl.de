@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.8)), url("/assets/img/canvas_map_10.SP7n37Xa.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.project-name, .project-tagline {
+  color: #000;
+}
+
+.site-footer-credits {
+  opacity: 0.5;
+}
