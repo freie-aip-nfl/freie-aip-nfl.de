@@ -1,0 +1,9 @@
+lang: 'de-DE'
+
+title: Freie AIP und NfL
+description: Information wants to be free!
+
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-remote-theme
