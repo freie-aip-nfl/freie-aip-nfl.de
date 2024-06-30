@@ -4,7 +4,7 @@ layout: custom
 
 ## Datenschutzerklärung
 
-Auf unserer Website werden keine personenbezogenen Daten verarbeitet. Die Verantwortliche stelle für die Datenverarbeitung entnehmen sie aus unserem [Impressum](/impressum/).
+Auf unserer Website werden keine personenbezogenen Daten verarbeitet. Die Verantwortliche stelle für die Datenverarbeitung entnehmen sie aus unserem [Impressum](/impressum.html).
 
 Wir verwenden keine Cookies, speichern und werten keine Informationen über Seitenaufrufe aus, und erfassen sonst keine weiteren Daten über unsere Besucher. Der Datenaustausch mit unserem Server ist mittels TLS verschlüsselt, was die übertragenen Daten für dritte nicht mitlesbar macht.
 
